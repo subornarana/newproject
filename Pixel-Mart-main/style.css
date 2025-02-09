@@ -1,0 +1,125 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+*{
+    font-family: "Poppins", serif;
+    
+}
+.line{
+    
+    margin-top: 100px;
+    margin-left: 200px;
+   width: 350px;
+}
+
+
+.m{
+    line-height:0;
+    margin-top: 100px;
+    margin-left: 200px;
+
+}
+.jhon{
+    color: #00b4fe;
+    font-size: 24px;
+}
+.chief{
+    color: #424247;
+    font-size: 16px;
+}
+.o{
+    line-height: 0.7;
+  margin: 0px;
+}
+.p{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 250px;
+   line-height: 0.7;
+   
+}
+.n{
+    line-height:80%;
+    margin-top: 40px;
+    margin-left: 200px;
+    color: #424247;
+}
+.phone{
+    display: flex;
+    align-items: center;
+}
+.height{
+    line-height: 0.6;
+    color: #424247;
+}
+.col{
+    
+    height: 45px;
+    width: 45px;
+    margin-right: 20px;
+}
+.cool{
+    
+    height: 45px;
+    width: 45px;
+    margin-right: 20px;
+}
+.display{
+    margin-top: 50px;
+    margin-left: 200px;
+    margin-right:200px; 
+    display: flex; 
+    margin-bottom: 300px;
+    
+}
+.phonee{
+    display: flex;
+    align-items: center;
+    margin-left: 200px;
+}
+.phn{
+    display: flex;
+    align-items: center;
+    margin-left: 200px;
+}
+.coll{
+    
+    height: 45px;
+    width: 45px;
+    margin-right: 20px;
+}
+
+  .para2{
+    margin-top: 40px;
+    margin-bottom: 40px;
+  }
+  .q{
+    font-size: 20px;
+    margin-right: 200px;
+    margin-left: 200px;
+    color: #424247;
+  }
+.name{
+    font-family: "Mulish", serif;
+    font-size: 24px;
+    font-weight: 800;
+    color: #424247;
+    line-height: 0;
+    margin-left: 200px;
+}
+.title{
+    margin-left: 225px;
+    font-size: 18px;
+    line-height: 0;
+    font-family: "Mulish", serif;
+    color: #424247;
+}
+.img{
+    line-height: 0;
+        height: 50px;
+        width: 100px;
+        margin-left: 200px;
+        margin-top: 50px;
+    }
+    
