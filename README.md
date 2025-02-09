@@ -1,4 +1,0 @@
-# newproject
-# PIXEL-MART
-# PIXEL-MART
-# PIXEL-MART
